@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "254f9bbbc1be8478",
+    "type": "split",
+    "children": [
+      {
+        "id": "a199cab8b2bde122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3b769e2419304ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "670e0e43ba838c8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0bfaf45a69c8401",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5b6e6afc17edd38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c8bc0932fcd2cc57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "85b3b5c89b0fa2cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 635.5
+  },
+  "right": {
+    "id": "39f638dce7011f71",
+    "type": "split",
+    "children": [
+      {
+        "id": "b090d601f7ff7b60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a72396f0648c9cdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bb628ed4f3c2a2f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "I. Locais/I. Planicies/I. Catedral/Contos Deliciosos - As Delícias dos Pratos de Arroz.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Contos Deliciosos - As Delícias dos Pratos de Arroz"
+            }
+          },
+          {
+            "id": "8bfa1ea02bf733bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c5afbbc9e74288ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "a24653d2962aa3f8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a24653d2962aa3f8",
+  "lastOpenFiles": [
+    "Sem título 1.base",
+    "Sem título.base",
+    "II. Receitas/A Arte do Pão de Lareira.md",
+    "I. Cidades/III. Nordha/Sem título.md",
+    "I. Cidades/III. Nordha/Flora do Véu de Dorosam.md",
+    "I. Cidades/III. Nordha/Alquimia do Cervejeiro - Criando Libações Antigas.md",
+    "I. Cidades/III. Nordha/O Sussurro de Conquest.md",
+    "I. Cidades/III. Nordha/Um Legado de Fogo.md",
+    "I. Cidades/III. Nordha/Sonhos de Construção - Um Guia para Edificar.md",
+    "I. Cidades/III. Nordha/Doença e Desespero - O Primeiro Cavaleiro.md",
+    "I. Cidades/III. Nordha",
+    "II. Receitas/Contos Deliciosos - As Delícias dos Pratos de Arroz.md",
+    "II. Receitas/Contos Deliciosos - Brilhantismo em Assar Pães.md",
+    "II. Receitas/Contos Deliciosos - Festa de Peixes.md",
+    "II. Receitas/Contos Deliciosos - Tortas de Frutas.md",
+    "IV. Os Melhores Mercadores de Apogea/Os Melhores Mercadores de Apogea - Capitão Rasobar de Basile.md",
+    "IV. Os Melhores Mercadores de Apogea/Os Melhores Mercadores de Apogea - Jebidiah o Alto Botânico.md",
+    "IV. Os Melhores Mercadores de Apogea/Os Melhores Mercadores de Apogea - Mary e Sam de Dorosam.md",
+    "III. Caça para Iniciantes/Caça para Iniciantes - Adentrando os Escavadores.md",
+    "III. Caça para Iniciantes/Caça para Iniciantes - Edição Goblins.md",
+    "III. Caça para Iniciantes/Caça para Iniciantes - Fúria dos Ratos.md",
+    "III. Caça para Iniciantes/Caça para Iniciantes - Trolls Revelados.md",
+    "I. Cidades/II. Basile/II. Torre Sombria/O Rugido da Montanha do Norte.md",
+    "IV. Os Melhores Mercadores de Apogea",
+    "Mãe Faminta.md",
+    "I. Cidades/II. Basile/II. Torre Sombria/Sobrevivendo nas Sombras - O Relato de um Cativo sobre a Sociedade Orc.md",
+    "I. Cidades/II. Basile/II. Torre Sombria/A Mãe Faminta.md",
+    "I. Cidades/II. Basile/II. Torre Sombria/A Torre Sombria -  Um Conto de Segredos Obscuros.md",
+    "I. Cidades/II. Basile/II. Torre Sombria/Águas Proibidas - Um Conto de Amor em Alto-Mar.md",
+    "I. Cidades/II. Basile/II. Torre Sombria",
+    "II. Hunts/I. Bandit Harbour",
+    "II. Hunts",
+    "III. Caça para Iniciantes",
+    "I. Cidades/II. Basile/I. Benedict",
+    "II. Receitas",
+    "I. Cidades/II. Basile"
+  ]
+}
