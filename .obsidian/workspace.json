@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a199cab8b2bde122",
+        "id": "eba8908f838a78c1",
         "type": "tabs",
         "children": [
           {
-            "id": "d3b769e2419304ed",
+            "id": "405499ef758bae5c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "I. Cidades/II. Basile/III. Monastério/Ilha do Mago Azul.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Ilha do Mago Azul"
+            }
+          }
+        ]
+      },
+      {
+        "id": "95fa6c3e27718fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6558ea38740b78d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -164,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,35 +194,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3b769e2419304ed",
+  "active": "d6558ea38740b78d",
   "lastOpenFiles": [
-    "I. Cidades/II. Basile/I. Benedict's Library/A Odisseia de Gavin, Capítulo Dois - O Chamado de Rasobar.md",
-    "I. Cidades/II. Basile/I. Benedict/Sussurros de Nordin - A Raiz Viva de Nordha.md",
-    "I. Cidades/II. Basile/I. Benedict/Sobre o Uso de Quartzo de Fogo.md",
-    "I. Cidades/II. Basile/I. Benedict/Sonata do Comércio - A Fineza da Maestria Econômica.md",
-    "I. Cidades/II. Basile/I. Benedict/Skalsbane, Vínculo da Guerra.md",
-    "I. Cidades/II. Basile/I. Benedict/Sobre a Origem dos Plea.md",
-    "I. Cidades/II. Basile/I. Benedict/Serenidade à Vela - Uma Jornada Poética na Construção de Barcos.md",
-    "I. Cidades/II. Basile/I. Benedict/Relíquias dos Reis do Deserto.md",
-    "I. Cidades/II. Basile/I. Benedict/Prova das Feras - Uma Jornada de Resistência.md",
-    "I. Cidades/II. Basile/I. Benedict/Os Skal de Amber Peak.md",
-    "I. Cidades/II. Basile/I. Benedict/Os Melhores Mercadores de Apogea - Gavin, o Mestre Mercador.md",
-    "I. Cidades/II. Basile/I. Benedict/Os Magos da Fortuna de Apogea.md",
-    "I. Cidades/II. Basile/I. Benedict/Os Ecos de Apogea.md",
-    "I. Cidades/II. Basile/I. Benedict/Os Anos Radiantes.md",
-    "I. Cidades/II. Basile/I. Benedict/O Centro do Trident.md",
-    "I. Cidades/II. Basile/I. Benedict/História da Cidadela - A Coroa Congelada.md",
-    "I. Cidades/II. Basile/I. Benedict/Garadum, a Cidade das Gemas.md",
-    "I. Cidades/II. Basile/I. Benedict/Forragear para o Estômago - Peixe.md",
-    "I. Cidades/II. Basile/I. Benedict/Forragear para o Estômago - Cogumelos.md",
-    "I. Cidades/II. Basile/I. Benedict/De Osso e Fronteira - por Heinrich.md",
-    "I. Cidades/II. Basile/I. Benedict/Aventuras de Rasobar - Partida do Amor.md",
-    "I. Cidades/II. Basile/I. Benedict/Como Ser um Bandido Melhor.md",
-    "I. Cidades/II. Basile/I. Benedict/Aventuras de Rasobar - O Estômago da Serpente Escamosa.md",
-    "I. Cidades/II. Basile/I. Benedict/A Odisseia de Gavin, Capítulo Dois - O Chamado de Rasobar.md",
-    "I. Cidades/II. Basile/I. Benedict/A Ascensão da Seda do Pântano.md",
+    "I. Cidades/II. Basile/III. Monastério/Ilha do Mago Azul.md",
+    "I. Cidades/II. Basile/III. Monastério/Construtores de Sonhos - Um Tratado Filosófico sobre Construção.md",
+    "I. Cidades/II. Basile/III. Monastério/Os Ecos de Apogea.md",
+    "I. Cidades/II. Basile/III. Monastério/Notas sobre Runas da Professora Brigitte.md",
+    "I. Cidades/II. Basile/III. Monastério/Cativo das Sombras - Infiltrando os Ocultistas.md",
+    "I. Cidades/III. Nordha/Procurando Comida - Maçãs.md",
+    "I. Cidades/II. Basile/III. Monastério/Não Tão Claro Quanto Cristal.md",
+    "I. Cidades/II. Basile/III. Monastério/Peso no Silêncio, Fogo na Devoção.md",
+    "I. Cidades/II. Basile/III. Monastério/Pragas do Vento - Os Goblins Diabólicos.md",
+    "I. Cidades/II. Basile/III. Monastério/Sem título 1.md",
+    "I. Cidades/II. Basile/I. Benedict/Olhos de Dorosam.md",
+    "I. Cidades/II. Basile/III. Monastério",
+    "I. Cidades/II. Basile/I. Benedict/Sonhos de Construção - Um Guia para Edificar.md",
+    "I. Cidades/II. Basile/I. Benedict/O Enganador Radiante.md",
+    "I. Cidades/II. Basile/I. Benedict/Relatos do Mago Cinzento.md",
+    "I. Cidades/II. Basile/I. Benedict/O Navio Fantasma do Mar do Sul.md",
+    "III. Caça para Iniciantes/Caça para Iniciantes - Combatendo as Crianças de Pestilence.md",
+    "I. Cidades/II. Basile/I. Benedict/Os Anos Sombrios.md",
+    "I. Cidades/II. Basile/I. Benedict/A Arte da Forja - Um Guia para a Maestria em Apogea.md",
+    "I. Cidades/II. Basile/I. Benedict/Palavras dos Despertos de Garadum.md",
+    "I. Cidades/II. Basile/I. Benedict/Segredos da Negociação Bruxa.md",
+    "I. Cidades/II. Basile/I. Benedict/Lingotes Lunares - Presentes de Além do Céu.md",
+    "I. Cidades/III. Nordha/Sussurros Sob Vecan.md",
+    "I. Cidades/III. Nordha/As Docas dos Bandidos.md",
+    "I. Cidades/III. Nordha/Aventuras de Rasobar - A Espada Perdida.md",
+    "I. Cidades/III. Nordha/Coleta para o Estômago - Carne de Cordeiro.md",
+    "I. Cidades/III. Nordha/O Barão Gélido dos Espinhos Brancos.md",
     "I. Cidades/II. Basile/I. Benedict",
-    "I. Cidades/II. Basile/I. Benedict's Library/A Ascensão da Seda do Pântano.md",
     "Sem título 1.base",
     "Sem título.base",
     "I. Cidades/III. Nordha",
@@ -214,7 +231,6 @@
     "I. Cidades/II. Basile/II. Torre Sombria",
     "II. Hunts/I. Bandit Harbour",
     "II. Hunts",
-    "III. Caça para Iniciantes",
-    "I. Cidades/II. Basile/I. Benedict's Library"
+    "III. Caça para Iniciantes"
   ]
 }
