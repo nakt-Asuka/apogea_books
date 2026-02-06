@@ -6,7 +6,7 @@
       {
         "id": "eba8908f838a78c1",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "405499ef758bae5c",
@@ -23,7 +23,7 @@
       {
         "id": "95fa6c3e27718fdf",
         "type": "tabs",
-        "dimension": 66.66666666666666,
+        "dimension": 66.66666666666667,
         "children": [
           {
             "id": "f6c4cf00773f96c5",
@@ -31,12 +31,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas sobre Runas da Professora Brigitte.md",
+                "file": "Livros/Notas sobre Runas da Professora Brigitte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Notas sobre Runas da Professora Brigitte"
+            }
+          },
+          {
+            "id": "46020ec1349997aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livros/A Arte da Forja - Um Guia para a Maestria em Apogea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Arte da Forja - Um Guia para a Maestria em Apogea"
             }
           },
           {
@@ -165,7 +179,8 @@
               "title": "As Escamas Esquecidas de Vecan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -324,43 +339,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6c4cf00773f96c5",
+  "active": "e5b6e6afc17edd38",
   "lastOpenFiles": [
-    "Não Tão Claro Quanto Cristal.md",
-    "Notas sobre Runas da Professora Brigitte.md",
-    "O Alcance Oriental de Draughtwood.md",
-    "O Barão Gélido dos Espinhos Brancos.md",
-    "O Centro do Trident.md",
-    "O Enganador Radiante.md",
-    "O Navio Fantasma do Mar do Sul.md",
-    "O Peso das Cinzas - Sobre as Mentiras Lançadas Contra o Oculto.md",
+    "Livros/A Ordem da Alcateia - Notas sobre os Lobos do Norte.md",
+    "Livros/A Forja Perigosa - Artefatos Antigos Renascidos.md",
+    "Livros/A Ascensão da Seda do Pântano.md",
+    "Livros",
+    "Livros/Não Tão Claro Quanto Cristal.md",
+    "Livros/Notas sobre Runas da Professora Brigitte.md",
+    "Livros/O Alcance Oriental de Draughtwood.md",
+    "Livros/O Barão Gélido dos Espinhos Brancos.md",
+    "Livros/O Centro do Trident.md",
+    "Livros/O Enganador Radiante.md",
+    "Livros/O Navio Fantasma do Mar do Sul.md",
+    "Livros/O Peso das Cinzas - Sobre as Mentiras Lançadas Contra o Oculto.md",
     "ocultista.md",
-    "O Rugido da Montanha do Norte.md",
-    "O Sussurro de Conquest.md",
-    "O Terror da Neve - Banshees de Nordha.md",
-    "Olhos de Dorosam.md",
-    "Os Anos Radiantes.md",
-    "Os Anos Sombrios.md",
-    "Os Ecos de Apogea.md",
-    "Os Magos da Fortuna de Apogea.md",
-    "Os Skal de Amber Peak.md",
-    "Poder Sob a Montanha.md",
-    "Relíquias dos Reis do Deserto.md",
-    "Segredos da Negociação Bruxa.md",
-    "Os Melhores Mercadores de Apogea/Os Melhores Mercadores de Apogea - Gavin, o Mestre Mercador.md",
-    "Sussurros Sob o Véu -  Um Aviso Sobre o Ocultismo.md",
-    "Opal.md",
-    "Os Melhores Mercadores de Apogea/Os Melhores Mercadores de Apogea - Mary e Sam de Dorosam.md",
-    "Os Melhores Mercadores de Apogea/Os Melhores Mercadores de Apogea - Jebidiah o Alto Botânico.md",
-    "Aventuras de Rasobar",
-    "Odisseia de Gavin",
+    "Livros/O Rugido da Montanha do Norte.md",
+    "Livros/O Sussurro de Conquest.md",
+    "Livros/O Terror da Neve - Banshees de Nordha.md",
+    "Livros/Olhos de Dorosam.md",
+    "Livros/Os Anos Radiantes.md",
+    "Livros/Os Anos Sombrios.md",
+    "Livros/Os Ecos de Apogea.md",
+    "Livros/Os Magos da Fortuna de Apogea.md",
+    "Livros/Os Skal de Amber Peak.md",
+    "Livros/Poder Sob a Montanha.md",
+    "Livros/Relíquias dos Reis do Deserto.md",
+    "Livros/Segredos da Negociação Bruxa.md",
+    "Livros/Os Melhores Mercadores de Apogea/Os Melhores Mercadores de Apogea - Gavin, o Mestre Mercador.md",
+    "Livros/Sussurros Sob o Véu -  Um Aviso Sobre o Ocultismo.md",
+    "Livros/Aventuras de Rasobar",
+    "Livros/Odisseia de Gavin",
     "I. Cidades/II. Basile/III. Monastério",
     "I. Cidades/II. Basile/I. Benedict",
     "Sem título 1.base",
     "Sem título.base",
     "I. Cidades/III. Nordha",
-    "Os Melhores Mercadores de Apogea",
-    "I. Cidades/II. Basile/II. Torre Sombria",
-    "II. Hunts/I. Bandit Harbour"
+    "Livros/Os Melhores Mercadores de Apogea",
+    "I. Cidades/II. Basile/II. Torre Sombria"
   ]
 }
