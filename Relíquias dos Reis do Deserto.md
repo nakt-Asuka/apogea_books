@@ -1,0 +1,6 @@
+
+O deserto guarda bem seus segredos, mas os restos dispersos de um império passado ainda emergem das areias. Bugigangas enferrujadas, gemas despedaçadas; o pouco que encontramos é uma sombra de sua glória, mas inegavelmente ligado aos reis-magos das lendas. Alguns os chamam de lagartos, criaturas de intelecto e poder, governando com artefatos que dizem dobrar os próprios elementos.
+
+Estas relíquias estão longe de pristinas. Já vi cajados rachados e joias sem brilho, sua magia reduzida a fracos lampejos. Ainda assim, me pergunto: poderiam ser restauradas? Há sussurros de métodos antigos, rituais perdidos no tempo, que poderiam trazer vida de volta a esses tesouros. Parece perseguir fantasmas, mas a possibilidade persiste. E se as areias não apenas enterraram o passado, mas esconderam algo esperando renascer?
+
+- **Encontrado em:** Basile, Benedict's library

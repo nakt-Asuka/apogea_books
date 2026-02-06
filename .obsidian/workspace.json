@@ -6,6 +6,7 @@
       {
         "id": "eba8908f838a78c1",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "405499ef758bae5c",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I. Cidades/II. Basile/III. Monastério/Ilha do Mago Azul.md",
+                "file": "A Mãe Faminta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ilha do Mago Azul"
+              "title": "A Mãe Faminta"
             }
           }
         ]
@@ -26,18 +27,164 @@
       {
         "id": "95fa6c3e27718fdf",
         "type": "tabs",
+        "dimension": 66.66666666666666,
         "children": [
           {
             "id": "d6558ea38740b78d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Sussurros de Nordin - A Raiz Viva de Nordha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sussurros de Nordin - A Raiz Viva de Nordha"
+            }
+          },
+          {
+            "id": "f6c4cf00773f96c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sussurros Sob o Véu -  Um Aviso Sobre o Ocultismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sussurros Sob o Véu -  Um Aviso Sobre o Ocultismo"
+            }
+          },
+          {
+            "id": "3858b3a37ae060ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sobrevivendo nas Sombras - O Relato de um Cativo sobre a Sociedade Orc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sobrevivendo nas Sombras - O Relato de um Cativo sobre a Sociedade Orc"
+            }
+          },
+          {
+            "id": "9dcc1440a7003ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os Ecos de Apogea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Os Ecos de Apogea"
+            }
+          },
+          {
+            "id": "b3bae5d14ef2beea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aventuras de Rasobar - Fantasmas do Alto-Mar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aventuras de Rasobar - Fantasmas do Alto-Mar"
+            }
+          },
+          {
+            "id": "97fbad0b692779bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As Profundezas Enigmáticas - Desvendando o Enigma do Esgoto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "As Profundezas Enigmáticas - Desvendando o Enigma do Esgoto"
+            }
+          },
+          {
+            "id": "d96e18f3cb699381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As Profundezas Enigmáticas - Desvendando o Enigma do Esgoto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "As Profundezas Enigmáticas - Desvendando o Enigma do Esgoto"
+            }
+          },
+          {
+            "id": "5f5187957dac7cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As Docas dos Bandidos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "As Docas dos Bandidos"
+            }
+          },
+          {
+            "id": "8c8e67283e6a62eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Alcance Oriental de Draughtwood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O Alcance Oriental de Draughtwood"
+            }
+          },
+          {
+            "id": "dd89ea53606f95e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aventuras de Rasobar - Fuga dos Ocultistas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aventuras de Rasobar - Fuga dos Ocultistas"
+            }
+          },
+          {
+            "id": "89c8991c8a427e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As Escamas Esquecidas de Vecan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "As Escamas Esquecidas de Vecan"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -110,6 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "As Escamas Esquecidas de Vecan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +267,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para As Escamas Esquecidas de Vecan"
             }
           },
           {
@@ -157,12 +305,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "As Escamas Esquecidas de Vecan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de As Escamas Esquecidas de Vecan"
             }
           },
           {
@@ -194,35 +343,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6558ea38740b78d",
+  "active": "89c8991c8a427e50",
   "lastOpenFiles": [
-    "I. Cidades/II. Basile/III. Monastério/Ilha do Mago Azul.md",
-    "I. Cidades/II. Basile/III. Monastério/Construtores de Sonhos - Um Tratado Filosófico sobre Construção.md",
-    "I. Cidades/II. Basile/III. Monastério/Os Ecos de Apogea.md",
-    "I. Cidades/II. Basile/III. Monastério/Notas sobre Runas da Professora Brigitte.md",
-    "I. Cidades/II. Basile/III. Monastério/Cativo das Sombras - Infiltrando os Ocultistas.md",
-    "I. Cidades/III. Nordha/Procurando Comida - Maçãs.md",
-    "I. Cidades/II. Basile/III. Monastério/Não Tão Claro Quanto Cristal.md",
-    "I. Cidades/II. Basile/III. Monastério/Peso no Silêncio, Fogo na Devoção.md",
-    "I. Cidades/II. Basile/III. Monastério/Pragas do Vento - Os Goblins Diabólicos.md",
-    "I. Cidades/II. Basile/III. Monastério/Sem título 1.md",
-    "I. Cidades/II. Basile/I. Benedict/Olhos de Dorosam.md",
+    "Aventuras de Rasobar - Fuga dos Ocultistas.md",
+    "As Escamas Esquecidas de Vecan.md",
+    "O Alcance Oriental de Draughtwood.md",
+    "As Docas dos Bandidos.md",
+    "A Garota de Cabelos Dourados.md",
+    "As Profundezas Enigmáticas - Desvendando o Enigma do Esgoto.md",
+    "Aventuras de Rasobar - O Estômago da Serpente Escamosa.md",
+    "A Seda e a Imundície - Um Estudo da Prosperidade das Aranhas.md",
+    "Aventuras de Rasobar - Fantasmas do Alto-Mar.md",
+    "Os Ecos de Apogea.md",
+    "Sonhos de Construção - Um Guia para Edificar 1.md",
+    "Os Ecos de Apogea 1.md",
+    "A Arte do Pão de Lareira.md",
+    "Um Legado de Fogo.md",
+    "Sussurros Sob Vecan.md",
+    "Sete Dias Sob a Cidadela.md",
+    "I. Cidades/III. Nordha/Sem título.md",
+    "Procurando Comida - Maçãs.md",
+    "Os Templos Vivos.md",
+    "O Sussurro de Conquest.md",
+    "O Barão Gélido dos Espinhos Brancos.md",
+    "História da Cidadela - O Frio Que Caminha.md",
+    "Hospitalidade Acolhedora - Um Guia para Melhorar a Experiência dos Hóspedes.md",
+    "Flora do Véu de Dorosam.md",
+    "Doença e Desespero - O Primeiro Cavaleiro.md",
+    "Coleta para o Estômago - Carne de Cordeiro.md",
     "I. Cidades/II. Basile/III. Monastério",
-    "I. Cidades/II. Basile/I. Benedict/Sonhos de Construção - Um Guia para Edificar.md",
-    "I. Cidades/II. Basile/I. Benedict/O Enganador Radiante.md",
-    "I. Cidades/II. Basile/I. Benedict/Relatos do Mago Cinzento.md",
-    "I. Cidades/II. Basile/I. Benedict/O Navio Fantasma do Mar do Sul.md",
-    "III. Caça para Iniciantes/Caça para Iniciantes - Combatendo as Crianças de Pestilence.md",
-    "I. Cidades/II. Basile/I. Benedict/Os Anos Sombrios.md",
-    "I. Cidades/II. Basile/I. Benedict/A Arte da Forja - Um Guia para a Maestria em Apogea.md",
-    "I. Cidades/II. Basile/I. Benedict/Palavras dos Despertos de Garadum.md",
-    "I. Cidades/II. Basile/I. Benedict/Segredos da Negociação Bruxa.md",
-    "I. Cidades/II. Basile/I. Benedict/Lingotes Lunares - Presentes de Além do Céu.md",
-    "I. Cidades/III. Nordha/Sussurros Sob Vecan.md",
-    "I. Cidades/III. Nordha/As Docas dos Bandidos.md",
-    "I. Cidades/III. Nordha/Aventuras de Rasobar - A Espada Perdida.md",
-    "I. Cidades/III. Nordha/Coleta para o Estômago - Carne de Cordeiro.md",
-    "I. Cidades/III. Nordha/O Barão Gélido dos Espinhos Brancos.md",
     "I. Cidades/II. Basile/I. Benedict",
     "Sem título 1.base",
     "Sem título.base",

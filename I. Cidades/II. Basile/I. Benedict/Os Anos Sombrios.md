@@ -1,7 +1,0 @@
-Nos textos sagrados de Apogea, um capítulo sombrio relata os Anos Sombrios, uma era quando profecias ominosas se tornaram uma terrível realidade. Após cem anos de paz, a terra foi lançada no tumulto quando os Cavaleiros do Apocalipse emergiram de seu sono, desencadeando caos e destruição. Estes presságios sombrios, há muito previstos, finalmente surgiram, despedaçando a frágil tranquilidade que havia agraciado Apogea.
-
-
-Os cavaleiros, envoltos em malevolência, haviam aguardado seu momento de atacar. Fortalecidos por forças sinistras, eles causaram devastação por toda a terra, seu poder reforçado por males ancestrais. Vilas foram arrasadas, campos queimados, e o desespero se espalhou como uma praga. Entre esses temíveis guerreiros, a ameaça mais iminente era o Cavaleiro Pestilência. Envolto em doença e decadência, ele lançou uma força malévola sobre a terra, corrompendo tudo que tocava.
-
-
-A presença do Cavaleiro Pestilência era um arauto da perdição, seu poder crescendo a cada dia que passava. Sua magia sombria infiltrou-se no solo, contaminando colheitas e adoecendo o gado. As pessoas viviam em medo constante, suas vidas ensombrecidas pela influência insidiosa do cavaleiro. Enquanto o Cavaleiro Pestilência continuava seu reinado de terror, a terra de Apogea enfrentava um futuro incerto, seu povo orando por libertação da escuridão que ameaçava consumi-los a todos.

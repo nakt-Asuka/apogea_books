@@ -1,0 +1,10 @@
+
+Na antiga terra de [[Apogea]], seres misteriosos outrora vagavam livremente, sua presença etérea um testemunho da beleza e magia da natureza. Eram guardiões das florestas, guardiões da sabedoria e tradição, vivendo em harmonia com o mundo. Suas canções ecoavam pelas árvores, suas risadas dançavam no vento, e seus feitos moldavam o próprio tecido da terra.
+
+Contudo, conforme as eras passavam e os reinos humanos se expandiam, esses seres começaram a desvanecer. Seus lares, escondidos nas profundezas de bosques encantados, tornaram-se santuários esquecidos. A magia que outrora fluía por Apogea como um rio tornou-se apenas um fio d'água. A ambição e conquista humanas ofuscaram os caminhos antigos, e esses seres recuaram para as sombras.
+
+Agora, são apenas mitos, sussurrados no vento, sua existência uma memória distante que poucos recordam. Lendas contam de sua graça e poder, mas apenas as árvores mais antigas e as criaturas mais sábias lembram de sua verdadeira influência. No sussurro silencioso das folhas, sua presença persiste, um fraco eco de uma época em que a magia era real e o mundo era jovem.
+
+Em Apogea, esses seres vivem, invisíveis mas sempre presentes, seu legado entrelaçado com a própria essência da terra. Para aqueles que escutam atentamente, os ecos de suas canções antigas ainda podem ser ouvidos, uma lembrança de uma era esquecida quando seres misteriosos caminhavam entre nós.
+
+- **Encontrado em:** Basile, Benedict's library

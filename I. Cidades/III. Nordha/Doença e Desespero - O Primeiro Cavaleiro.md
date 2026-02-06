@@ -1,9 +1,0 @@
-Nos anais da história de Apogea, a primeira aparição de [[Pestilence]], o [[Cavaleiro do Apocalipse]], permanece gravada nas memórias daqueles que testemunharam o evento cataclísmico. Emergindo das profundezas do submundo, Pestilence cavalgou sobre um corcel de sombra e decomposição, sua armadura negra reluzindo com malícia. Com um golpe de sua lâmina amaldiçoada, ele desencadeou uma praga sobre a terra, espalhando doença e devastação em seu rastro.
-
-Por anos, Pestilence reinou sem controle, sua ira arrasando vilas e reinos. Colheitas murcharam, rios correram negros com corrupção, e os gritos dos aflitos ecoaram pela paisagem desolada. Ninguém podia resistir à maré de destruição causada pelo Cavaleiro do Apocalipse.
-
-Contudo, Pestilence não foi derrotado; ao contrário, ele aguarda seu momento, acumulando força. Nas profundezas de sua torre de obsidiana, escondida no coração das terras amaldiçoadas, ele descansa, aguardando o momento em que seus poderes estarão no auge. Os ocultistas, sempre devotos, conduzem rituais sombrios para alimentar seu ressurgimento. Através de sacrifícios sangrentos e da forja de anéis adornados com caveiras, eles canalizam energias obscuras para seu temível mestre.
-
-Estes anéis, gravados com runas de mal antigo, servem como condutos para a energia dos sacrifícios, alimentando o cavaleiro adormecido. Os rituais realizados pelos ocultistas são tanto aterrorizantes quanto intrincados, projetados para infundir os anéis com a força vital dos sacrificados, aumentando o poder de Pestilence.
-
-Enquanto a torre permanece envolta em um miasma de desespero, sua sombra se estende longa sobre Apogea. A aura palpável de escuridão que emana das profundezas da terra serve como um testemunho arrepiante do legado duradouro do Cavaleiro do Apocalipse. E assim, Pestilence aguarda, um arauto da perdição, pronto para desencadear horrores incalculáveis sobre o mundo uma vez que seu poder seja totalmente restaurado.

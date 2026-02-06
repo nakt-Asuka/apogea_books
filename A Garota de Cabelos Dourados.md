@@ -1,0 +1,3 @@
+Na pitoresca cidade de Basile, entre mercados movimentados e segredos sussurrados, uma história de amor floresceu. Ele, um humilde mercador, cativado por seus radiantes cachos dourados, encontrou consolo em seu riso e calor. Ela, com olhos que brilhavam como o sol da manhã, acendeu um fogo em seu coração. Seus encontros clandestinos sob o antigo carvalho teceram uma tapeçaria de momentos roubados e promessas sussurradas. Num mundo de incerteza, seu amor permaneceu firme, um farol de esperança e luz.
+
+- **Encontrado em:** Monastério de Basile

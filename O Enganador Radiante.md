@@ -1,0 +1,9 @@
+Conquest, o segundo cavaleiro do apocalipse, representa um paradoxo: luz na forma, escuridão no propósito. Em Vecan, seu nome é sussurrado com medo e entoado em reverência por aqueles que o veem como um salvador. Sua armadura dourada reluz como o sol, seu semblante radiante evocando esperança e divindade. Porém, sob esse disfarce celestial jaz uma força implacável de morte e engano, um mestre de dominação e subjugação.
+
+Lendas contam sobre o retorno de Conquest, um arauto da calamidade previsto para seguir Pestilence. Onde Pestilence traz decadência e sofrimento, Conquest promete ordem e unidade, oferecendo salvação aos desesperados. Mas suas promessas são vazias. A unidade que ele traz é através de correntes, e sua paz é forjada em sangue.
+
+Em cantos sombrios de Vecan, rituais são supostamente realizados para apressar seu retorno. Seguidores deste falso profeta afirmam que sua luz purificará a cidade, mas outros temem a devastação que seguirá. Sua imagem radiante cega os incautos, levando-os à destruição disfarçada de salvação.
+
+[[Conquest]] não é o fim, mas um arauto de um caos maior, um segundo passo numa sequência de devastação trazida pelos cavaleiros do apocalipse, com mais ainda por vir.
+
+- **Encontrado em:** Basile, Benedict's library

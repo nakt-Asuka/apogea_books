@@ -1,0 +1,9 @@
+A Caravana de [[Gavin]] ergue-se como um farol de comércio e camaradagem para viajantes e aventureiros. Liderado pelo estimado mestre mercador Gavin, este movimentado centro oferece um tesouro de mercadorias e serviços para atender às diversas necessidades daqueles que ousam explorar o reino.
+
+
+Dentro do agitado mercado da caravana, pode-se encontrar tudo que um aventureiro deseja, desde ferramentas resistentes e equipamentos essenciais até armas poderosas e artefatos encantados. [[Opal]], a habilidosa mercadora de equipamentos, garante que cada lâmina esteja afiada à perfeição e cada mochila esteja abastecida para a jornada adiante. [[Zebulon]], o enigmático mercador de magia, oferece uma tentadora variedade de relíquias místicas e artefatos arcanos, cada um repleto de poder e potencial incalculáveis.
+
+
+Em meio à agitação, Dewey, o cozinheiro, seduz viajantes cansados com aromas saborosos e refeições fartas, enquanto Erastus, o mercador ladino, vende tesouros raros e exóticos adquiridos através de ousados feitos de astúcia e esperteza. Juntos, eles formam uma equipe formidável, unidos em sua missão de fornecer aos aventureiros as ferramentas, provisões e conhecimento necessários para conquistar os desafios que aguardam no mundo de Apogea. Entre na Caravana de Gavin e embarque em uma jornada de descoberta, aventura e infinitas possibilidades.
+
+- **Encontrado em:** Basile, Benedict's library

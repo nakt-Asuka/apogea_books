@@ -1,0 +1,7 @@
+Nas terras ao norte de Apogea, ergue-se uma montanha envolta em mistério e medo. Seus picos irregulares perfuram o céu, lançando uma sombra ameaçadora sobre a terra abaixo. Mas não é o terreno árido que mantém os viajantes afastados—é a criatura temível que habita lá dentro.
+
+Sussurros abundam sobre uma besta semelhante a um dragão, sua respiração flamejante chamuscando a terra e seus rugidos ecoando pelos vales. Muitos acreditam que a montanha guarda riquezas incalculáveis, escondidas pelo tesouro da criatura. Mas poucos ousam se aproximar, pois o risco de encontrar a besta é grande demais.
+
+Aqueles que ousaram se aproximar falam da esmagadora sensação de pavor que os invade ao se aproximarem. O rugido da [[Montanha do Norte]] serve como um aviso a todos que ousariam desafiar o poder da criatura que espreita lá dentro.
+
+- **Encontrado em:** Torre Sombria

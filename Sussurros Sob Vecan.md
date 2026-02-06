@@ -1,0 +1,9 @@
+[[Vecan]] ergue-se sobre os restos de uma civilização antiga, uma sociedade cujo nome se perdeu no tempo. O que hoje chamamos de Tumbas eram outrora estruturas prósperas, suas paredes vibrando com energia de pedras misteriosas que pareciam canalizar poder além da compreensão. Registros dessa civilização são escassos, entalhes fragmentados, manuscritos frágeis e artefatos dispersos; Mas eles sugerem um povo cujo conhecimento e habilidade rivalizam com qualquer coisa vista em Apogea hoje.
+
+
+Alguns relatos sugerem que esses antigos possuíam características reptilianas, sua fisiologia entrelaçada com a estranha magia que exerciam. Suas ferramentas e máquinas, alimentadas por "pedras vivas", podiam construir e sustentar estruturas que resistiram à erosão de milênios. As antigas muralhas de Vecan, fortificadas com camadas de osso e magia, acredita-se serem resquícios de seu trabalho, seus segredos ainda desafiando estudos modernos.
+
+
+Eruditos sussurram sobre constructos semi-sencientes e seres realistas que eles criaram para servi-los e protegê-los, alguns talvez ainda adormecidos dentro das Tumbas. O propósito dessas criações é desconhecido, mas a semelhança sinistra entre esses constructos e as paredes de osso de Vecan sugere uma conexão arrepiante. Seriam essas paredes simplesmente fortificações, ou são algo mais vivo, um legado persistente de seus mestres esquecidos?
+
+- **Encontrado em:** Nordha
