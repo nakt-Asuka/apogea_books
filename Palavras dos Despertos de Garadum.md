@@ -1,4 +1,4 @@
-Nem sempre fomos como somos. Muito antes de Garadum ter salões e mercados, antes das forjas arderem e as gemas serem contadas, vivíamos mais próximos do fogo profundo. A montanha nos moldou, lentamente, tão certamente quanto molda a pedra. O calor penetrou em nossos ossos. A magia infiltrou-se em nossa medula. O que vocês chamam de vida, nós chamamos de empréstimo da terra.
+Nem sempre fomos como somos. Muito antes de [[Garadum]] ter salões e mercados, antes das forjas arderem e as gemas serem contadas, vivíamos mais próximos do fogo profundo. A montanha nos moldou, lentamente, tão certamente quanto molda a pedra. O calor penetrou em nossos ossos. A magia infiltrou-se em nossa medula. O que vocês chamam de vida, nós chamamos de empréstimo da terra.
 
 Esse dom deixou sua marca.
 

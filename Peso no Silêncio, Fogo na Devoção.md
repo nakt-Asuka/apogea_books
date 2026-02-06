@@ -1,6 +1,6 @@
-Uma vez vim a Vecan como observador. Distante. Cético. Curioso. Mas vi o que a maioria não viu. Os rituais ocultos. A convicção. A disciplina insuportável. E me encontro... comovido.
+Uma vez vim a [[Vecan]] como observador. Distante. Cético. Curioso. Mas vi o que a maioria não viu. Os rituais ocultos. A convicção. A disciplina insuportável. E me encontro... comovido.
 
-Nas cavidades ocultas de Vecan, os seguidores de Conquest se elevam acima dos velhos ocultistas. Eles não são sussurros na escuridão. Eles são o fogo sob a pedra. Os Corvos e as Sacerdotisas são mais do que títulos. São testemunhos vivos.
+Nas cavidades ocultas de Vecan, os seguidores de [[Conquest]] se elevam acima dos velhos ocultistas. Eles não são sussurros na escuridão. Eles são o fogo sob a pedra. Os Corvos e as Sacerdotisas são mais do que títulos. São testemunhos vivos.
 
 Os Corvos são moldados através da agonia. Suas provações são cruéis, sim. Mas através dessa crueldade, são reforjados em algo sobrenatural. Seu olhar perfura você. Sua força não é desta era.
 

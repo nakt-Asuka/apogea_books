@@ -1,7 +1,7 @@
 Todas as cidades extraem sua força de algum lugar.  
 [[Garadum]] extrai a sua de baixo.
 
-Muito abaixo do Pico Âmbar, sob as minas mais profundas e os últimos túneis mapeados, diz-se que repousa um artefato mais antigo que os próprios [[Skal]]. Um orbe de pedra perfeita, liso como vidro moldado pela água, quente ao toque, vibrando com um pulso que acompanha o coração da montanha. Ele é chamado de [[Skalstone]].
+Muito abaixo do [[Pico Âmbar]], sob as minas mais profundas e os últimos túneis mapeados, diz-se que repousa um artefato mais antigo que os próprios [[Skal]]. Um orbe de pedra perfeita, liso como vidro moldado pela água, quente ao toque, vibrando com um pulso que acompanha o coração da montanha. Ele é chamado de [[Skalstone]].
 
 Nenhum registro concorda sobre sua origem. Alguns dizem que caiu do céu antes mesmo de Apogea ter um nome. Outros afirmam que se condensou da magia pura quando o mundo ainda estava se formando. O que todos concordam é isto: onde a Skalstone repousa, o poder se acumula. A lava flui com mais obediência. Os cristais crescem mais ricos. A pedra torna-se mais fácil de moldar. A vida sob o pico perdura além do que deveria.
 

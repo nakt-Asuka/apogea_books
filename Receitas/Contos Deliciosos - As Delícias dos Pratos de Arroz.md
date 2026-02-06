@@ -10,5 +10,5 @@ A cada garfada do nosso prato de arroz, saboreamos a essência de nossa habilida
 
 Até nossa próxima aventura gastronômica, que seus pratos de arroz sejam fartos, seus ensopados sejam saborosos e suas mesas estejam sempre cercadas de risadas e amor. Bom apetite, meus amigos!
 
-- Livro encontrado na Catedral das Planícies
+- **Encontrado em:** Catedral das Planícies
 - Série: [[Contos Deliciosos]]

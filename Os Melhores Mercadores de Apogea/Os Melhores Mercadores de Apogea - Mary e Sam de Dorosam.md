@@ -1,9 +1,7 @@
-Nas profundezas obscuras de [[Dorosam]], aninhados dentro da densa folhagem do pântano, reside um duo de mercadores renomados por toda Apogea por suas mercadorias impecáveis e experiência incomparável. Mary e Sam, um casal devotado, construíram sua reputação sobre uma fundação de integridade, confiabilidade e um profundo entendimento do mercado.
-
+Nas profundezas obscuras de [[Dorosam]], aninhados dentro da densa folhagem do pântano, reside um duo de mercadores renomados por toda Apogea por suas mercadorias impecáveis e experiência incomparável. [[Mary]] e [[Sam]], um casal devotado, construíram sua reputação sobre uma fundação de integridade, confiabilidade e um profundo entendimento do mercado.
 
 Especializados na aquisição e troca de ervas raras e produtos de criaturas, Mary e Sam oferecem uma variedade diversificada de mercadorias para satisfazer as necessidades e desejos de sua clientela. Entre suas ofertas cobiçadas estão Pedaços de Boleto, conhecidos por suas potentes propriedades curativas; suculentos Mirtilos repletos de sabor; exóticas Pitayas, procuradas por sua raridade e fascínio exótico; e Sementes de Colocasia, valorizadas por suas propriedades místicas e aplicações versáteis.
 
-
 A cada transação, Mary e Sam demonstram não apenas sua perspicácia nos negócios, mas também seu genuíno cuidado pelos clientes, garantindo acordos justos e promovendo relacionamentos duradouros. Seu posto comercial em Dorosam serve como um farol de prosperidade em um ambiente de outra forma perigoso, atraindo mercadores e aventureiros em busca das melhores mercadorias que Apogea tem a oferecer.
 
-- Série: [[Os Melhores Mercadores de Apogea]]
+- **Série:** [[Os Melhores Mercadores de Apogea]]

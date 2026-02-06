@@ -12,14 +12,10 @@
             "id": "405499ef758bae5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Mãe Faminta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Mãe Faminta"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -30,31 +26,17 @@
         "dimension": 66.66666666666666,
         "children": [
           {
-            "id": "d6558ea38740b78d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sussurros de Nordin - A Raiz Viva de Nordha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sussurros de Nordin - A Raiz Viva de Nordha"
-            }
-          },
-          {
             "id": "f6c4cf00773f96c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sussurros Sob o Véu -  Um Aviso Sobre o Ocultismo.md",
+                "file": "Notas sobre Runas da Professora Brigitte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sussurros Sob o Véu -  Um Aviso Sobre o Ocultismo"
+              "title": "Notas sobre Runas da Professora Brigitte"
             }
           },
           {
@@ -91,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aventuras de Rasobar - Fantasmas do Alto-Mar.md",
+                "file": "Aventuras de Rasobar/Aventuras de Rasobar - Fantasmas do Alto-Mar.md",
                 "mode": "source",
                 "source": false
               },
@@ -161,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aventuras de Rasobar - Fuga dos Ocultistas.md",
+                "file": "Aventuras de Rasobar/Aventuras de Rasobar - Fuga dos Ocultistas.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,8 +165,7 @@
               "title": "As Escamas Esquecidas de Vecan"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "As Escamas Esquecidas de Vecan.md",
+                "file": "Notas sobre Runas da Professora Brigitte.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para As Escamas Esquecidas de Vecan"
+              "title": "Links inversos para Notas sobre Runas da Professora Brigitte"
             }
           },
           {
@@ -305,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "As Escamas Esquecidas de Vecan.md",
+                "file": "Notas sobre Runas da Professora Brigitte.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de As Escamas Esquecidas de Vecan"
+              "title": "Sumário de Notas sobre Runas da Professora Brigitte"
             }
           },
           {
@@ -343,43 +324,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89c8991c8a427e50",
+  "active": "f6c4cf00773f96c5",
   "lastOpenFiles": [
-    "Aventuras de Rasobar - Fuga dos Ocultistas.md",
-    "As Escamas Esquecidas de Vecan.md",
+    "Não Tão Claro Quanto Cristal.md",
+    "Notas sobre Runas da Professora Brigitte.md",
     "O Alcance Oriental de Draughtwood.md",
-    "As Docas dos Bandidos.md",
-    "A Garota de Cabelos Dourados.md",
-    "As Profundezas Enigmáticas - Desvendando o Enigma do Esgoto.md",
-    "Aventuras de Rasobar - O Estômago da Serpente Escamosa.md",
-    "A Seda e a Imundície - Um Estudo da Prosperidade das Aranhas.md",
-    "Aventuras de Rasobar - Fantasmas do Alto-Mar.md",
-    "Os Ecos de Apogea.md",
-    "Sonhos de Construção - Um Guia para Edificar 1.md",
-    "Os Ecos de Apogea 1.md",
-    "A Arte do Pão de Lareira.md",
-    "Um Legado de Fogo.md",
-    "Sussurros Sob Vecan.md",
-    "Sete Dias Sob a Cidadela.md",
-    "I. Cidades/III. Nordha/Sem título.md",
-    "Procurando Comida - Maçãs.md",
-    "Os Templos Vivos.md",
-    "O Sussurro de Conquest.md",
     "O Barão Gélido dos Espinhos Brancos.md",
-    "História da Cidadela - O Frio Que Caminha.md",
-    "Hospitalidade Acolhedora - Um Guia para Melhorar a Experiência dos Hóspedes.md",
-    "Flora do Véu de Dorosam.md",
-    "Doença e Desespero - O Primeiro Cavaleiro.md",
-    "Coleta para o Estômago - Carne de Cordeiro.md",
+    "O Centro do Trident.md",
+    "O Enganador Radiante.md",
+    "O Navio Fantasma do Mar do Sul.md",
+    "O Peso das Cinzas - Sobre as Mentiras Lançadas Contra o Oculto.md",
+    "ocultista.md",
+    "O Rugido da Montanha do Norte.md",
+    "O Sussurro de Conquest.md",
+    "O Terror da Neve - Banshees de Nordha.md",
+    "Olhos de Dorosam.md",
+    "Os Anos Radiantes.md",
+    "Os Anos Sombrios.md",
+    "Os Ecos de Apogea.md",
+    "Os Magos da Fortuna de Apogea.md",
+    "Os Skal de Amber Peak.md",
+    "Poder Sob a Montanha.md",
+    "Relíquias dos Reis do Deserto.md",
+    "Segredos da Negociação Bruxa.md",
+    "Os Melhores Mercadores de Apogea/Os Melhores Mercadores de Apogea - Gavin, o Mestre Mercador.md",
+    "Sussurros Sob o Véu -  Um Aviso Sobre o Ocultismo.md",
+    "Opal.md",
+    "Os Melhores Mercadores de Apogea/Os Melhores Mercadores de Apogea - Mary e Sam de Dorosam.md",
+    "Os Melhores Mercadores de Apogea/Os Melhores Mercadores de Apogea - Jebidiah o Alto Botânico.md",
+    "Aventuras de Rasobar",
+    "Odisseia de Gavin",
     "I. Cidades/II. Basile/III. Monastério",
     "I. Cidades/II. Basile/I. Benedict",
     "Sem título 1.base",
     "Sem título.base",
     "I. Cidades/III. Nordha",
-    "IV. Os Melhores Mercadores de Apogea",
+    "Os Melhores Mercadores de Apogea",
     "I. Cidades/II. Basile/II. Torre Sombria",
-    "II. Hunts/I. Bandit Harbour",
-    "II. Hunts",
-    "III. Caça para Iniciantes"
+    "II. Hunts/I. Bandit Harbour"
   ]
 }

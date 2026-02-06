@@ -1,4 +1,4 @@
-Nas profundezas turvas de [[Dorosam]], os primeiros habitantes surgiram como etéreos “olhos”, nascidos da imagem sombria da [[Pestilência]]. Dotados de consciência e profunda inteligência, perceberam a futilidade dos conflitos sem propósito.
+Nas profundezas turvas de [[Dorosam]], os primeiros habitantes surgiram como etéreos “olhos”, nascidos da imagem sombria de [[Pestilence]]. Dotados de consciência e profunda inteligência, perceberam a futilidade dos conflitos sem propósito.
 
 Escolhendo a sabedoria em vez da discórdia, os olhos isolaram-se no coração do pântano. Dali, passaram a observar o fluxo e refluxo da humanidade e das hordas monstruosas com um discernimento solene.
 

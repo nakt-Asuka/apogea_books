@@ -1,4 +1,4 @@
-Por tempo demais, a palavra “[[ocultista]]” tem sido arremessada como uma maldição por aqueles que temem o que não compreendem. A Igreja fala de reuniões secretas e rituais deturpados, mas não apresenta provas. Incita o medo onde há apenas estudo, e pinta buscadores devotos como inimigos.
+Por tempo demais, a palavra “[[Ocultista]]” tem sido arremessada como uma maldição por aqueles que temem o que não compreendem. A [[Igreja]] fala de reuniões secretas e rituais deturpados, mas não apresenta provas. Incita o medo onde há apenas estudo, e pinta buscadores devotos como inimigos.
 
 Aqueles rotulados como ocultistas não são agentes do caos. São estudiosos, andarilhos e portadores da verdade. Leem aquilo que outros queimaram. Questionam não para destruir, mas para compreender. Por isso, são caçados, ridicularizados e responsabilizados por toda sombra que passa sobre Apogea.
 

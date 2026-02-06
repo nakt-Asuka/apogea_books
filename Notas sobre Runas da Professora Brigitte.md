@@ -1,6 +1,6 @@
 Muitos viajantes chegam à minha porta segurando lâminas finas e olhos esperançosos. Eles fazem a mesma pergunta: "Você pode tornar isso mais forte?" Eu sempre respondo com outra pergunta: "Tem certeza de que está pronto para parar de se tornar o que poderia ser?"
 
-Runas não são tinta. São âncoras. Quando eu entalho uma runa em um item, eu digo à magia dentro dele: "Fique." E uma vez que a magia fica, o material se acomoda ao seu redor. É por isso que itens encantados resistem a melhorias adicionais. Uma espada que poderia ter se tornado lendária permanecerá meramente boa se as runas a prenderem cedo demais.
+[[Runas]] não são tinta. São âncoras. Quando eu entalho uma runa em um item, eu digo à magia dentro dele: "Fique." E uma vez que a magia fica, o material se acomoda ao seu redor. É por isso que itens encantados resistem a melhorias adicionais. *Uma espada que poderia ter se tornado lendária permanecerá meramente boa se as runas a prenderem cedo demais.*
 
 Alguns chamam isso de falha. Eu chamo de honestidade. A magia exige compromisso.
 

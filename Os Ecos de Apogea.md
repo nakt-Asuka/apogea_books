@@ -1,4 +1,3 @@
-
 Na antiga terra de [[Apogea]], seres misteriosos outrora vagavam livremente, sua presença etérea um testemunho da beleza e magia da natureza. Eram guardiões das florestas, guardiões da sabedoria e tradição, vivendo em harmonia com o mundo. Suas canções ecoavam pelas árvores, suas risadas dançavam no vento, e seus feitos moldavam o próprio tecido da terra.
 
 Contudo, conforme as eras passavam e os reinos humanos se expandiam, esses seres começaram a desvanecer. Seus lares, escondidos nas profundezas de bosques encantados, tornaram-se santuários esquecidos. A magia que outrora fluía por Apogea como um rio tornou-se apenas um fio d'água. A ambição e conquista humanas ofuscaram os caminhos antigos, e esses seres recuaram para as sombras.

@@ -10,7 +10,6 @@ As principais funções de um bobo da corte incluem:
 
 Nós zombamos de reis, flertamos com o perigo e, às vezes, com galinhas. (História longa. Envolve um prefeito e um alaúde.)  
 Contamos piadas como esta:  
-
 `- Por que o mago atravessou a estrada?  
 `- Para se transformar em uma cabra e causar um escândalo, obviamente. HAH!
 

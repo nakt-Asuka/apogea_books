@@ -1,4 +1,4 @@
-Os [[Plea]] são frequentemente dispensados como criaturas menores, mas sua origem nunca foi acordada. Entre os Skal, o assunto é raramente discutido e, quando é, o tom é cauteloso.
+Os [[Plea]] são frequentemente dispensados como criaturas menores, mas sua origem nunca foi acordada. Entre os [[Skal]], o assunto é raramente discutido e, quando é, o tom é cauteloso.
 
 Registros antigos e relatos orais sugerem que os Plea nem sempre existiram como são agora. Alguns estudiosos acreditam que eles já foram Skal, transformados por forças não mais totalmente compreendidas. Esta crença não é provada, mas persiste através de regiões e gerações.
 
