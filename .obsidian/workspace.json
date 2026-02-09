@@ -4,26 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "eba8908f838a78c1",
-        "type": "tabs",
-        "dimension": 33.333333333333336,
-        "children": [
-          {
-            "id": "405499ef758bae5c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          }
-        ]
-      },
-      {
         "id": "95fa6c3e27718fdf",
         "type": "tabs",
-        "dimension": 66.66666666666667,
         "children": [
           {
             "id": "f6c4cf00773f96c5",
@@ -45,142 +27,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livros/A Arte da Forja - Um Guia para a Maestria em Apogea.md",
+                "file": "Livros/Olhos de Dorosam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Arte da Forja - Um Guia para a Maestria em Apogea"
+              "title": "Olhos de Dorosam"
             }
           },
           {
-            "id": "3858b3a37ae060ea",
+            "id": "6341f2fff6130152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sobrevivendo nas Sombras - O Relato de um Cativo sobre a Sociedade Orc.md",
+                "file": "Peões e Realeza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sobrevivendo nas Sombras - O Relato de um Cativo sobre a Sociedade Orc"
+              "title": "Peões e Realeza"
             }
           },
           {
-            "id": "9dcc1440a7003ff1",
+            "id": "7407af0f45a2375b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Os Ecos de Apogea.md",
+                "file": "Livros/Véu do Povo dos Olhos - Revelando o Enigma de Dorosam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Os Ecos de Apogea"
+              "title": "Véu do Povo dos Olhos - Revelando o Enigma de Dorosam"
             }
           },
           {
-            "id": "b3bae5d14ef2beea",
+            "id": "220489410818b00b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aventuras de Rasobar/Aventuras de Rasobar - Fantasmas do Alto-Mar.md",
+                "file": "Livros/Véu do Povo dos Olhos - Revelando o Enigma de Dorosam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aventuras de Rasobar - Fantasmas do Alto-Mar"
+              "title": "Véu do Povo dos Olhos - Revelando o Enigma de Dorosam"
             }
           },
           {
-            "id": "97fbad0b692779bc",
+            "id": "98d9b862fa0373c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "As Profundezas Enigmáticas - Desvendando o Enigma do Esgoto.md",
+                "file": "Livros/Segredos da Negociação Bruxa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "As Profundezas Enigmáticas - Desvendando o Enigma do Esgoto"
-            }
-          },
-          {
-            "id": "d96e18f3cb699381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "As Profundezas Enigmáticas - Desvendando o Enigma do Esgoto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "As Profundezas Enigmáticas - Desvendando o Enigma do Esgoto"
-            }
-          },
-          {
-            "id": "5f5187957dac7cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "As Docas dos Bandidos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "As Docas dos Bandidos"
-            }
-          },
-          {
-            "id": "8c8e67283e6a62eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Alcance Oriental de Draughtwood.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "O Alcance Oriental de Draughtwood"
-            }
-          },
-          {
-            "id": "dd89ea53606f95e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aventuras de Rasobar/Aventuras de Rasobar - Fuga dos Ocultistas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aventuras de Rasobar - Fuga dos Ocultistas"
-            }
-          },
-          {
-            "id": "89c8991c8a427e50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "As Escamas Esquecidas de Vecan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "As Escamas Esquecidas de Vecan"
+              "title": "Segredos da Negociação Bruxa"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 635.5
+    "width": 305.5
   },
   "right": {
     "id": "39f638dce7011f71",
@@ -325,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 271.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,35 +251,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5b6e6afc17edd38",
+  "active": "220489410818b00b",
   "lastOpenFiles": [
-    "Livros/A Ordem da Alcateia - Notas sobre os Lobos do Norte.md",
-    "Livros/A Forja Perigosa - Artefatos Antigos Renascidos.md",
-    "Livros/A Ascensão da Seda do Pântano.md",
-    "Livros",
-    "Livros/Não Tão Claro Quanto Cristal.md",
-    "Livros/Notas sobre Runas da Professora Brigitte.md",
-    "Livros/O Alcance Oriental de Draughtwood.md",
-    "Livros/O Barão Gélido dos Espinhos Brancos.md",
-    "Livros/O Centro do Trident.md",
-    "Livros/O Enganador Radiante.md",
-    "Livros/O Navio Fantasma do Mar do Sul.md",
-    "Livros/O Peso das Cinzas - Sobre as Mentiras Lançadas Contra o Oculto.md",
-    "ocultista.md",
-    "Livros/O Rugido da Montanha do Norte.md",
-    "Livros/O Sussurro de Conquest.md",
-    "Livros/O Terror da Neve - Banshees de Nordha.md",
-    "Livros/Olhos de Dorosam.md",
-    "Livros/Os Anos Radiantes.md",
-    "Livros/Os Anos Sombrios.md",
-    "Livros/Os Ecos de Apogea.md",
-    "Livros/Os Magos da Fortuna de Apogea.md",
-    "Livros/Os Skal de Amber Peak.md",
-    "Livros/Poder Sob a Montanha.md",
-    "Livros/Relíquias dos Reis do Deserto.md",
-    "Livros/Segredos da Negociação Bruxa.md",
-    "Livros/Os Melhores Mercadores de Apogea/Os Melhores Mercadores de Apogea - Gavin, o Mestre Mercador.md",
+    "Peões e Realeza.md",
+    "Livros/Véu do Povo dos Olhos - Revelando o Enigma de Dorosam.md",
+    "Livros/Harmonia nas Sombras.md",
+    "Livros/Um Legado de Fogo.md",
+    "Livros/Um Legado de Fé.md",
+    "Livros/Todo mundo quer ser Elgifu.md",
+    "Livros/Sussurros Sob Vecan.md",
     "Livros/Sussurros Sob o Véu -  Um Aviso Sobre o Ocultismo.md",
+    "Livros/Sussurros de Nordin - A Raiz Viva de Nordha.md",
+    "Livros/Sonhos de Construção - Um Guia para Edificar.md",
+    "Livros/Sonata do Comércio - A Fineza da Maestria Econômica.md",
+    "Livros/Sobrevivendo nas Sombras - O Relato de um Cativo sobre a Sociedade Orc.md",
+    "Livros/Sobre o Uso de Quartzo de Fogo.md",
+    "Livros/Sobre a Origem dos Plea.md",
+    "Livros/Skalsbane, Vínculo da Guerra.md",
+    "Livros/Sete Dias Sob a Cidadela.md",
+    "Livros/Serenidade à Vela - Uma Jornada Poética na Construção de Barcos.md",
+    "Livros/Segredos da Negociação Bruxa.md",
+    "Livros/Relíquias dos Reis do Deserto.md",
+    "Livros/Relatos do Mago Cinzento.md",
+    "Livros/Prova das Feras - Uma Jornada de Resistência.md",
+    "Livros/Procurando Comida - Maçãs.md",
+    "Livros/Pragas do Vento - Os Goblins Diabólicos.md",
+    "Livros/Poder Sob a Montanha.md",
+    "Livros/Peso no Silêncio, Fogo na Devoção.md",
+    "Livros/Palavras dos Despertos de Garadum.md",
+    "Temas",
+    "Livros",
     "Livros/Aventuras de Rasobar",
     "Livros/Odisseia de Gavin",
     "I. Cidades/II. Basile/III. Monastério",
@@ -375,7 +288,6 @@
     "Sem título 1.base",
     "Sem título.base",
     "I. Cidades/III. Nordha",
-    "Livros/Os Melhores Mercadores de Apogea",
-    "I. Cidades/II. Basile/II. Torre Sombria"
+    "Livros/Os Melhores Mercadores de Apogea"
   ]
 }

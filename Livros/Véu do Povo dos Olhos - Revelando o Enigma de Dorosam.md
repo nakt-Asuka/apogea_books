@@ -1,0 +1,7 @@
+Nas profundezas do obscuro abraço de [[Dorosam]] jaz um segredo velado aos olhos mortais: o covil do enigmático [[Povo dos Olhos]]. Envoltos em mistério e cobertos pelas névoas do pântano, seu santuário oculto escapa a todos exceto aos buscadores mais intrépidos.
+
+Para desbloquear o caminho até seu covil oculto, deve-se ouvir os sussurros dos charcos e procurar pelas alavancas antigas escondidas entre as raízes emaranhadas e águas movediças. Esses mecanismos arcanos, ocultos à vista de todos mas invisíveis ao olho destreinado, guardam a chave para revelar os segredos do Povo dos Olhos.
+
+Mas cuidado, pois o Povo dos Olhos não são criaturas para se brincar. Sua inteligência supera a dos mortais, e eles guardam seu santuário com uma vigilância nascida de malícia ancestral. Propositalmente escondidos de olhos curiosos, eles permanecem elusivos, conhecendo muito bem os perigos representados por aqueles que buscariam explorar seu conhecimento e poder.
+
+Contudo, para aqueles corajosos o suficiente para aventurar-se no coração das profundezas sombrias de Dorosam, os segredos do Povo dos Olhos aguardam, prontos para serem desvendados por aqueles que ousam trilhar onde poucos se aventuraram antes.
