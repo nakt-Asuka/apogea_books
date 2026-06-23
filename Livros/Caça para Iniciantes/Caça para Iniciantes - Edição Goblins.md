@@ -8,4 +8,4 @@ Por outro lado, [[Goblins da Montanha]] podem parecer menos ameaçadores, mas n�
 
 Lembre-se, conhecimento é sua maior arma ao caçar monstros. Estude seus hábitos, aprenda suas fraquezas e, acima de tudo, permaneça alerta. Com um pouco de habilidade e uma boa dose de bravura, você logo estará a caminho de se tornar um caçador de monstros experiente no mundo de Apogea.
 
-- Série: [[Caça para Iniciantes]]
+- Série: [Caça para Iniciantes]
