@@ -69,30 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livros/Véu do Povo dos Olhos - Revelando o Enigma de Dorosam.md",
+                "file": "Livros/Um Legado de Fé.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Véu do Povo dos Olhos - Revelando o Enigma de Dorosam"
+              "title": "Um Legado de Fé"
             }
           },
           {
             "id": "98d9b862fa0373c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livros/Segredos da Negociação Bruxa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Segredos da Negociação Bruxa"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 530.5
   },
   "right": {
     "id": "39f638dce7011f71",
@@ -237,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,11 +247,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "220489410818b00b",
+  "active": "98d9b862fa0373c7",
   "lastOpenFiles": [
-    "Peões e Realeza.md",
-    "Livros/Véu do Povo dos Olhos - Revelando o Enigma de Dorosam.md",
+    "Livros/A Mãe Faminta.md",
     "Livros/Harmonia nas Sombras.md",
+    "Livros/Skalsbane, Vínculo da Guerra.md",
+    "Livros/Segredos da Negociação Bruxa.md",
+    "Livros/Os Templos Vivos.md",
+    "Livros/Os Anos Sombrios.md",
+    "Livros/Os Anos Radiantes.md",
+    "Livros/O Peso das Cinzas - Sobre as Mentiras Lançadas Contra o Oculto.md",
+    "Livros/Como Ser um Bandido Melhor.md",
+    "Livros/As Docas dos Bandidos.md",
+    "Livros/As Crônicas das Irmãs Trident.md",
+    "Livros/Alquimia do Cervejeiro - Criando Libações Antigas.md",
+    "Livros/A Criança Sagrada e a Mãe Faminta.md",
+    "Livros/Véu do Povo dos Olhos - Revelando o Enigma de Dorosam.md",
+    "Peões e Realeza.md",
     "Livros/Um Legado de Fogo.md",
     "Livros/Um Legado de Fé.md",
     "Livros/Todo mundo quer ser Elgifu.md",
@@ -267,18 +275,6 @@
     "Livros/Sobrevivendo nas Sombras - O Relato de um Cativo sobre a Sociedade Orc.md",
     "Livros/Sobre o Uso de Quartzo de Fogo.md",
     "Livros/Sobre a Origem dos Plea.md",
-    "Livros/Skalsbane, Vínculo da Guerra.md",
-    "Livros/Sete Dias Sob a Cidadela.md",
-    "Livros/Serenidade à Vela - Uma Jornada Poética na Construção de Barcos.md",
-    "Livros/Segredos da Negociação Bruxa.md",
-    "Livros/Relíquias dos Reis do Deserto.md",
-    "Livros/Relatos do Mago Cinzento.md",
-    "Livros/Prova das Feras - Uma Jornada de Resistência.md",
-    "Livros/Procurando Comida - Maçãs.md",
-    "Livros/Pragas do Vento - Os Goblins Diabólicos.md",
-    "Livros/Poder Sob a Montanha.md",
-    "Livros/Peso no Silêncio, Fogo na Devoção.md",
-    "Livros/Palavras dos Despertos de Garadum.md",
     "Temas",
     "Livros",
     "Livros/Aventuras de Rasobar",
